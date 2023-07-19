@@ -6,7 +6,7 @@ I'm a passionate software developer with a strong focus on Java programming. I e
 ## Skills
 
 - **Programming Languages:** Java, JavaScript, HTML, CSS
-- **Frameworks and Libraries:** Spring Boot, Hibernate, React
+- **Frameworks and Libraries:** Spring Boot, React
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Version Control:** Git, GitHub
 - **Testing:** JUnit, Mockito
