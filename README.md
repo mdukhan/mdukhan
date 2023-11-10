@@ -15,7 +15,5 @@ I'm a passionate software developer with a strong focus on Java programming. I e
 
 ## Get In Touch
 
-- Email: Mansour.dukhan@gmail.com
-
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on an interesting project. I'm always open to new opportunities and exciting challenges!
